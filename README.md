@@ -1,7 +1,7 @@
 # map-filter-frontend
 <p>NextJs App for WWW Corp map listings using WP Bedrock as backend with GraphQL
 <h2>HOW TO INSTALL</h2>
-<p>1. Clone the repo using command line in youe desired folder</p>
+<p>1. Clone the repo using command line in your desired folder, open command line in map-filter-frontend folder</p>
 <p>2. Create .env.local file in root folder</p>
 <p>3. Add 3 constants with your values:</p>
 <ul>
