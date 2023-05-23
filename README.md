@@ -15,5 +15,5 @@
   </li>
 </ul>
 <p>3. run in command line: npm install</p>
-<p>4. run in command line: npm run dev</p>
+<p>4. run in command line: npm run dev - to run local server</p>
 
